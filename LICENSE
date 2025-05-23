@@ -1,0 +1,9 @@
+The Rust programs in this repository were ported and adapted from the LLVM test suite
+
+    https://github.com/llvm/llvm-test-suite/tree/main/SingleSource/Benchmarks/Shootout-C%2B%2B
+
+which originate in the Programming Language Shootout
+
+    http://www.bagley.org/~doug/shootout/
+
+The LLVM test suite is licensed under the LLVM license (Apache 2.0 http://www.apache.org/licenses/LICENSE-2.0
